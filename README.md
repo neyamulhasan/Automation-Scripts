@@ -28,9 +28,13 @@ These scripts are built to be:
 
 ## Available tools
 
-### [`meta-data-fixer`](./meta-data-fixer/)
+### 1. [`meta-data-fixer`](./meta-data-fixer/)
 
 See the [`meta-data-fixer` README](./meta-data-fixer/README.md) for details.
+
+### 2. [`bulk-file-renamer`](./bulk-file-renamer/)
+
+See the [`bulk-file-renamer` README](./bulk-file-renamer/README.md) for details.
 
 ## General usage and safety
 
