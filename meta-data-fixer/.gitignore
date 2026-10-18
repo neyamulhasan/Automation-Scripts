@@ -1,0 +1,20 @@
+# Local Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Google Takeout and generated media data
+Google Takeout/
+takeout-*/
+*.supplemental-metadata*.json
+*.json
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.heic
+*.webp
+*.mp4
+*.mov
+*.log
