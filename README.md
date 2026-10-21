@@ -36,6 +36,10 @@ See the [`meta-data-fixer` README](./meta-data-fixer/README.md) for details.
 
 See the [`bulk-file-renamer` README](./bulk-file-renamer/README.md) for details.
 
+### 3. [`github-setup`](./github-setup/)
+
+See the [`github-setup` README](./github-setup/README.md) for details.
+
 ## General usage and safety
 
 Before using a script:
